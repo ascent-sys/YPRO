@@ -30,9 +30,8 @@ assigned
   
 ## Причины недоступности тарифа:  
 class  
-exams  
-class  
-disabled_by_driver  
+exams   
+disabled_by_driver   
 no_permit  
 
 ## Теги, которые ставят пользователи, оценивая поездку:  
