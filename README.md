@@ -31,7 +31,6 @@ assigned
 ## Причины недоступности тарифа:  
 class  
 exams  
-class  
 disabled_by_driver  
 no_permit  
 
