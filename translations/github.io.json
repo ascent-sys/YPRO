@@ -1,5 +1,5 @@
 [
-  {"en":"USER_CANCELLED_FIELD","ru":"<font color="blue">Пользователь отменил заказ</font>"},
+  {"en":"USER_CANCELLED_FIELD","ru":"<p style='color:blue'>Пользователь отменил заказ</p>"},
   {"en":"USER_CANCELLED_DRIVER_REQUEST_FIELD","ru":"Пользователь отменил заказ «водитель попросил»"},
   {"en":"COMPLETE_FIELD","ru":"Водитель успешно завершил заказ"},
   {"en":"ASSIGNED_CANCELLED_FIELD","ru":"Водитель отменил заказ через таксопарк (либо произошоло автопересоздание заказа после отмены водителем)"},
