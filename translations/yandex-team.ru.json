@@ -135,12 +135,16 @@
   {"en":"middle_baddriving_telemetry","ru":"Небезопасное вождение (Средне)"},
   {"en":"low_baddriving_telemetry","ru":"Небезопасное вождение (Редко)"},
   {"en":"middle_careless_driving_telemetry","ru":"Небезопасное вождение (Средне)"},
-  {"en":"security_course_passed_1week","ru":"Детское"},
+  {"en":"security_course_passed_1week","ru":"Курс безопасности"},
   {"en":"walking_courier","ru":"Приоритет для курьеров"},
   {"en":"auto_courier","ru":"Приоритет для курьеров"},
   {"en":"additional_courier_training","ru":"Условие на начисление баллов приоритета"},
   {"en":"priority_for_cancel_exp","ru":"2 балла на 2 часа за отмену заказа в рамках эксперимента"},
   {"en":"try_driverfix_available","ru":"Приоритет за поездки в DriverFix доступен"},
   {"en":"try_driverfix_priority","ru":"Приоритет за поездки в DriverFix уже есть"},
-  {"en":"try_driverfix_completed","ru":"Приоритет за поездки в DriverFix выполнил условие и получил свой приоритет"}
+  {"en":"try_driverfix_completed","ru":"Приоритет за поездки в DriverFix выполнил условие и получил свой приоритет"},
+
+  {"en":"db_id","ru":"id таксопарка"},
+  {"en":"dbcar_id","ru":"id машины"},
+  {"en":"Uuid","ru":"id водитея"}
 ]
