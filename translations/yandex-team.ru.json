@@ -113,7 +113,7 @@
   {"en":"epl_check_completed_yesterday","ru":"ЭПЛ (электронный путевой лист)"},
   {"en":"telemed_check_completed_yesterday","ru":"Телемед (телемедецина)"},
   {"en":"thermobag/thermobag_priority","ru":"Термопакеты"},
-  {"en":"car_year_2019_or_newer","ru":"Новая машина (19+ года выпуска)"},
+  {"en":"car_year_2019_or_newer","ru":"Новая машина (Машина 2019+ года выпуска)"},
   {"en":"yellow_car_number","ru":"Жёлтые номера"},
   {"en":"covid_disinfection","ru":"Дезинфекция машин"},
   {"en":"rating_lower_than_4_75","ru":"Рейтинг ниже 4.75"},
@@ -146,5 +146,10 @@
 
   {"en":"db_id","ru":"id таксопарка"},
   {"en":"dbcar_id","ru":"id машины"},
-  {"en":"Uuid","ru":"id водитея"}
+  {"en":"Uuid","ru":"id водитея"},
+  {"en":"medmask_confirmed","ru":"Успешно прошел фотоконтроль медкнижки"},
+  {"en":"ManualActivityLast24Hours","ru":"Активность поднимали вручную за последние 24 часа"},
+  {"en":"car_year_2017_or_newer","ru":"Машина 2017+ года выпуска"},
+
+  {"en":"davos_unique","ru":"Новый водитель (юник)"}
 ]
