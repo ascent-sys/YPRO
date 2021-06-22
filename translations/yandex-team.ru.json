@@ -159,5 +159,8 @@
   {"en":"Reject:manual","ru":"Reject:manual (Водитель отказался от заказа)"},
   {"en":"Reject: missingtariffs","ru":"Reject: missingtariffs (Заказ отозван. Истекло время на загрузку данных, по причине плохой связи.)"},
   {"en":"REJECTMISSINGTARIFF","ru":"REJECTMISSINGTARIFF (Массовая отмена заказов (вернуть активность))"},
-  {"en":"ispredictionfallback","ru":"ispredictionfallback (Некорректное начсление активности (должно быть больше))"}
+  {"en":"ispredictionfallback","ru":"ispredictionfallback (Некорректное начсление активности (должно быть больше))"},
+
+  {"en":"cash","ru":"Наличными"},
+  {"en":"card","ru":"Банковская карта"}
 ]
