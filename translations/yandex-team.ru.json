@@ -164,6 +164,7 @@
   {"en":"busy","ru":"Занят"},
   {"en":"order_free","ru":"На заказе (цепочка)"},
   {"en":"order_busy","ru":"На заказе (не цепочка)"},
+  {"en":"<input id="Order_DescriptionCanceled" name="Order.DescriptionCanceled" readonly="readonly" type="text" value="Reject: manual">","ru":"<input id="Order_DescriptionCanceled" name="Order.DescriptionCanceled" readonly="readonly" type="text" value="Reject:manual (Водитель отказался от заказа)">"},
   {"en":"free","ru":"Свободен"}
 
 ]
