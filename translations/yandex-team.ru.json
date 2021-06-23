@@ -143,6 +143,7 @@
   {"en":"try_driverfix_available","ru":"Приоритет за поездки в DriverFix доступен"},
   {"en":"try_driverfix_priority","ru":"Приоритет за поездки в DriverFix уже есть"},
   {"en":"try_driverfix_completed","ru":"Приоритет за поездки в DriverFix выполнил условие и получил свой приоритет"},
+  {"en":"davos_unique","ru":"Новый водитель (юник)"},
 
   {"en":"db_id","ru":"id таксопарка"},
   {"en":"dbcar_id","ru":"id машины"},
@@ -151,11 +152,10 @@
   {"en":"ManualActivityLast24Hours","ru":"Активность поднимали вручную за последние 24 часа"},
   {"en":"car_year_2017_or_newer","ru":"Машина 2017+ года выпуска"},
 
-  {"en":"davos_unique","ru":"Новый водитель (юник)"},
   {"en":"Reject: Autocancel","ru":"Reject: Autocancel (Заказ на таксометре отображался 15сек, водитель ничего не сделал, заказ снялся с этого водителя)"},
   {"en":"offertimeout","ru":"offertimeout (Водитель нажал на Принять на 14ой секунде, но этот статус не поступил нам на сервер, и заказ не был назначен на данного водителя)"},
   {"en":"Seen_Timeout","ru":"Seen_Timeout (Заказ отозван. Истекло время на доставку, по причине плохой связи.)"},
-  {"en":"reject:seenimpossible","ru":"reject:seenimpossible (Заказ отозван. Водитель был не доступен для заказа.)"},
+  {"en":"Reject:seenImpossible","ru":"reject:seenimpossible (Заказ отозван, поскольку заказ не смог отобразиться для водителя.)"},
   {"en":"Reject:manual","ru":"Reject:manual (Водитель отказался от заказа)"},
   {"en":"Reject: missingtariffs","ru":"Reject: missingtariffs (Заказ отозван. Истекло время на загрузку данных, по причине плохой связи.)"},
   {"en":"REJECTMISSINGTARIFF","ru":"REJECTMISSINGTARIFF (Массовая отмена заказов (вернуть активность))"},
