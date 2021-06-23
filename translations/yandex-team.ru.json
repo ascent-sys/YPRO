@@ -145,7 +145,7 @@
 
   {"en":"Reject:seenImpossible","ru":"reject:seenimpossible (Заказ отозван, поскольку заказ не смог отобразиться для водителя (Вернуть активность))"},
   {"en":"Reject:Seenimpossible","ru":"Reject:Seenimpossible (Заказ отозван, поскольку заказ не смог отобразиться для водителя (Вернуть активность))"},
-  {"en":"Reject:manual","ru":"Reject:manual (Водитель отказался от заказа)"},
+  {"en":"Reject: manual","ru":"Reject: manual (Водитель отказался от заказа)"},
   {"en":"Reject:Manual","ru":"Reject:Manual (Водитель отказался от заказа)"},
   {"en":"Reject: missingtariffs","ru":"Reject: missingtariffs (Заказ отозван. Истекло время на загрузку данных, по причине плохой связи (Вернуть активность))"},
   {"en":"Reject:Missingtariffs","ru":"Reject:Missingtariffs (Заказ отозван. Истекло время на загрузку данных, по причине плохой связи (Вернуть активность))"},
