@@ -17,11 +17,12 @@
   {"en":"OFFER_TIMEOUT_FIELD","ru":"Отключение Сети (Режим Полёта)"},
   {"en":"CHAINED_OFFER_TIMEOUT_FIELD","ru":"Отмена заказа по <Цепочке>"},
 
+  {"en":"user","ru":"user (Заказ отменен пассажиром)"},
   {"en":"REJECT_MISSING_TARIFF","ru":"Отмена заказа из-за сбоя связи"},
-  {"en":"missingTarif","ru":"Отмена заказа из-за сбоя связи"},
-  {"en":"seenImposible","ru":"Отмена заказа из-за сбоя связи"},
-  {"en":"Seen_Timeout","ru":"Отмена заказа из-за сбоя связи"},
-  {"en":"requestconfirm status 404","ru":"Отмена заказа из-за сбоя связи"},
+  {"en":"missingTarif","ru":"missingTarif (Попытался принять заказ, но отправить статус не смог)"},
+  {"en":"seenImposible","ru":"seenImposible (Не смогли показать окно предложения заказа)"},
+  {"en":"Seen_Timeout","ru":"Seen_Timeout (Заказ отозван. Истекло время на доставку, по причине плохой связи)"},
+  {"en":"requestconfirm status 404","ru":"requestconfirm status 404 (Сервис получил не тот статус заказа, который ожидал (заказ уже был отменен, но водитель попытался его завершить)."},
   {"en":"assigned","ru":"Отмена заказа из-за сбоя связи"},
 
   {"en":"loyalty_freeze_driver_halfyear_in_service","ru":"Восстановление уровня недоступно!"},
